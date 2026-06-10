@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Wilcy Victoria 👩🏻‍💻
+# Hi, I'm Wilcy Victoria 👩🏻‍💻 ✧˖°
 
-**CS Student @ FIU · AI Developer · Builder**
+**CS Student @ FIU · AI Developer · Builder** 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilcy)
@@ -12,20 +12,20 @@
 
 ---
 
-### About Me
+### About Me ✧˖°
 
 I'm a Computer Science student at **Florida International University** (Dean's List, 3.56 GPA), passionate about building AI-powered products that actually solve real problems.
 
 I code, design, and ship — solo when I have to, in teams when I can.
 
-- 🤖 Currently building **KIW** — an AI-powered personal assistant app in React Native
-- 🎓 Coursework focus: Operating Systems, Statistics, and everything AI
-- 🔐 Interested in AI, software development, and cybersecurity
-- 🏆 Member of **Women in Computing Society (WICS)** @ FIU
+-  Currently building **KIW** — an AI-powered personal assistant app in React Native ^ω^ 
+-  Coursework focus: Operating Systems, Statistics, and everything AI (•̀_•́)💻
+-  Interested in AI, software development, and cybersecurity (✧_✧)💻 
+-  Member of **Women in Computing Society (WICS)** @ FIU (￣^￣)ゞ💻 
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Highlighted Projects ✧˖° 
 
 | Project | Description | Stack |
 |---|---|---|
@@ -35,7 +35,7 @@ I code, design, and ship — solo when I have to, in teams when I can.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack ✧˖°
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
