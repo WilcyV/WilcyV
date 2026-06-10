@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Wilcy Victoria 👩🏻‍💻 ✧˖°
+# Hi, I'm Wilcy Victoria ✧˖°
 
 **CS Student @ FIU · AI Developer · Builder** 
 
