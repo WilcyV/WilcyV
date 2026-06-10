@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**WilcyV/WilcyV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Wilcy Victoria 👩🏻‍💻
 
-Here are some ideas to get you started:
+**CS Student @ FIU · AI Developer · Builder**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilcy-victoria-lora)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+### About Me
+
+I'm a Computer Science student at **Florida International University** (Dean's List, 3.56 GPA), passionate about building AI-powered products that actually solve real problems.
+
+I code, design, and ship — solo when I have to, in teams when I can.
+
+- 🤖 Currently building **KIW** — an AI-powered personal assistant app in React Native
+- 🎓 Coursework focus: Operating Systems, Statistics, and everything AI
+- 🔐 Interested in AI, software development, and cybersecurity
+- 🏆 Member of **Women in Computing Society (WICS)** @ FIU
+
+---
+
+### 🚀 Highlighted Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**KIW**](https://github.com/WilcyV/kiwapp) | AI-powered personal assistant — calendar, tasks, and life alignment | React Native · Supabase · AI |
+| [**ONYXX 2.0**](https://github.com/WilcyV/onyxx) | Personal finance PWA with AI integration | React · Node.js · AI |
+| [**VibeFinder 2.0**](https://github.com/WilcyV/vibefinder) | AI music recommendation system | Python · ML · Spotify API |
+
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Wilcy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilcyV&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilcyV&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build in public. Ship often. Learn always."*
+
+</div>
