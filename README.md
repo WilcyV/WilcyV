@@ -50,6 +50,6 @@ I code, design, and ship — solo when I have to, in teams when I can.
 
 <div align="center">
 
-*"Build in public. Ship often. Learn always."*
+*"If it's meant to be, it'll be"*
 
 </div>
