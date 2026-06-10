@@ -46,16 +46,7 @@ I code, design, and ship — solo when I have to, in teams when I can.
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-![Wilcy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilcyV&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilcyV&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
