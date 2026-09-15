@@ -29,7 +29,7 @@ I code, design, and ship — solo when I have to, in teams when I can.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**KIW**](https://github.com/WilcyV/kiwapp) | AI-powered personal assistant — calendar, tasks, and life alignment | React Native · Supabase · AI |
+| [**KIW**](https://github.com/WilcyV/KIW-App) | AI-powered personal assistant — calendar, tasks, and life alignment | React Native · Supabase · AI |
 | [**ONYXX 2.0**](https://github.com/WilcyV/ONYXX2.0) | Personal finance PWA with AI integration | React · Node.js · AI |
 | [**VibeFinder 2.0**](https://github.com/WilcyV/vibefinder-final) | AI music recommendation system | Python · ML · Spotify API |
 
